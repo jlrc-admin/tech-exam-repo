@@ -5,7 +5,7 @@
     - [your-full-name]_[exam-type]
     - e.g. juan-dela-cruz_frontend / maria-gonzales_backend
   
-  - Push your solution to https://github.com/jlrc-admin/tech-exam-repo.git.
+  - Push your solution to https://github.com/horheJLRC/tech-exam-submission.git.
 
   - Include a README with setup instructions (install, run, seed if applicable).
 
