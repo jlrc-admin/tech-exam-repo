@@ -1,7 +1,11 @@
 # Instructions for the Technical Exam
 
 📦 Submission Instructions
-  - Push your solution to a private GitHub repo or zip the project.
+  - Create a folder named using the format:
+    - [your-full-name]_[exam-type]
+    - e.g. juan-dela-cruz_frontend / maria-gonzales_backend
+  
+  - Push your solution to https://github.com/jlrc-admin/tech-exam-repo.git.
 
   - Include a README with setup instructions (install, run, seed if applicable).
 
