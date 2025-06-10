@@ -23,8 +23,8 @@
 ---
 
 ### 🌐 Available End Points:
-  - ⚠️ *PLEASE TAKE NOTE OF THE DYNAMIC PARAMETERS AND DETAILS*
-  - ⚠️ *THE IP ADDRESS WILL BE PROVIDED DURING THE EXAM*
+  ⚠️ *PLEASE TAKE NOTE OF THE DYNAMIC PARAMETERS AND DETAILS*
+  ⚠️ *THE IP ADDRESS WILL BE PROVIDED DURING THE EXAM*
 
   #### Users
   - http://<ip>:7878/users -> Fetch all Users.
