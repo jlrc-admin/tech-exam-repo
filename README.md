@@ -119,7 +119,7 @@
   - Provider: postgresql
   - User: postgres
   - Password: *⚠️ Will be provided during the exam*
-  - Host: 192.168.1.10
+  - Host: *⚠️ Will be provided during the exam*
   - Port: 5432
   - Database: jlrc-exam-db
 
