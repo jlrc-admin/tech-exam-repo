@@ -27,18 +27,18 @@
   ⚠️ *THE IP ADDRESS WILL BE PROVIDED DURING THE EXAM*
 
   #### Users
-  - http://<ip>:7878/users -> Fetch all Users.
-  - http://<ip>:7878/users/:userId -> Fetch User by userId.
+  - http://\<IP_ADDRESS\>:7878/users -> Fetch all Users.
+  - http://\<IP_ADDRESS\>:7878/users/:userId -> Fetch User by userId.
 
   #### Tutors
-  - http://<ip>:7878/tutors -> Returns all Tutors with its User details.
-  - http://<ip>:7878/tutors/:userId -> Returns a Tutor by using userId.
-  - http://<ip>:7878/tutors/:tutorId/students -> Returns the Students of a Tutor by using tutorId.
+  - http://\<IP_ADDRESS\>:7878/tutors -> Returns all Tutors with its User details.
+  - http://\<IP_ADDRESS\>:7878/tutors/:userId -> Returns a Tutor by using userId.
+  - http://\<IP_ADDRESS\>:7878/tutors/:tutorId/students -> Returns the Students of a Tutor by using tutorId.
 
   #### Students
-  - http://<ip>:7878/students -> Returns all Students with its User details.
-  - http://<ip>:7878/students/:userId -> Returns a Student by using userId.
-  - http://<ip>:7878/students/:studentId/tutor -> Returns the Tutor of a Student by using studentId.
+  - http://\<IP_ADDRESS\>:7878/students -> Returns all Students with its User details.
+  - http://\<IP_ADDRESS\>:7878/students/:userId -> Returns a Student by using userId.
+  - http://\<IP_ADDRESS\>:7878/students/:studentId/tutor -> Returns the Tutor of a Student by using studentId.
 
 ---
 
