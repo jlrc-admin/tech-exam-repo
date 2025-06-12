@@ -121,7 +121,7 @@
   - Password: *⚠️ Will be provided during the exam*
   - Host: *⚠️ Will be provided during the exam*
   - Port: 5432
-  - Database: jlrc-exam-db
+  - Database: jlrc-exam-db-[number]
 
 ---
 
