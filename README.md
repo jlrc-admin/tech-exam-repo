@@ -1,15 +1,20 @@
 # Instructions for the Technical Exam
 
 📦 Submission Instructions
-  - Create a folder named using the format:
+
+   - Fork this repository to your GitHub account:  
+   [https://github.com/horheJLRC/tech-exam-submission.git](https://github.com/horheJLRC/tech-exam-submission.git)
+
+  - Create a new branch named using the format:
     - [your-full-name]_[exam-type]
     - e.g. juan-dela-cruz_frontend / maria-gonzales_backend
   
-  - Push your solution to https://github.com/horheJLRC/tech-exam-submission.git.
 
   - Include a README with setup instructions (install, run, seed if applicable).
 
   - Highlight any completed bonus tasks in your README.
+
+  - Submit a Pull Request (PR) from your forked repo’s branch to the original repository.
 
   - Optional: Include screenshots of working UI or Postman requests if time allows.
 
