@@ -201,7 +201,7 @@ student with id = 3
   
   - A many-to-many relation with Students to allow enrollments.
 
-  - A many-to-many relation with Tutors to allow assigning tutors to lessons.
+  - A many-to-many relation with Tutors to allow assigning lessons to tutors.
 
 3.) Update existing models as needed
 - Make any required changes to the existing models to support these relationships.
@@ -214,7 +214,7 @@ student with id = 3
     - ADMIN (⚠️ *Accessible by Admins only*)
       - **Create**, **Update**, or **Delete** Lessons (⚠️ Prevent creation of duplicate lessons — e.g., by title).
         
-      - **Assign** or **Remove** Tutors from Lessons
+      - **Assign** or **Remove** Lessons to or from Tutors.
         
     - Students (⚠️ *Accessible by Students only*)
       - Enroll into a Lesson (⚠️ A student cannot enroll in the same lesson more than once)
@@ -242,7 +242,7 @@ student with id = 3
 
 
 2.) Prevent Over-Assignment
-- Limit the number of tutors that can be assigned to a single lesson (e.g., max 3).
+- Limit the number of lessons that can be assigned to a Tutor (e.g., max 3).
 
 -  Enforce this in your API logic.
 
@@ -253,7 +253,7 @@ student with id = 3
 
 4.) Advanced Querying
 - Add an endpoint:
-  - "Get all lessons a student is enrolled in, including assigned tutors and lesson status."
+  - "Get all lessons a student is enrolled in, including the lessons’ status and tutors."
 
 5.) Soft Deletes
   - Implement soft deletes for Lesson:
